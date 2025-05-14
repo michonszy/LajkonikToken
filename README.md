@@ -1,0 +1,2 @@
+# LajkonikToken
+LajkonikToken blockchain projekt
